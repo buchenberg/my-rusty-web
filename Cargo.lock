@@ -851,7 +851,6 @@ dependencies = [
  "actix-web",
  "rusqlite",
  "serde",
- "serde_json",
 ]
 
 [[package]]
