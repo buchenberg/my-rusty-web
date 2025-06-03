@@ -11,7 +11,7 @@ A proof-of-concept RESTful web service built with Rust, Actix-web, and SQLite. T
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/buchenberg/my-rusty-web.git
    cd my-rusty-web
    ```
 
